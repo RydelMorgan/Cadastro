@@ -20,8 +20,6 @@
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
-
         /// <summary>
         ///  Required method for Designer support - do not modify
         ///  the contents of this method with the code editor.
@@ -108,10 +106,10 @@
             btn_excluir.UseVisualStyleBackColor = true;
             btn_excluir.Click += btnExcluir_Click;
             // 
-            // btn_cont
+            // btn_contar
             // 
-            resources.ApplyResources(btn_contar, "btn_cont");
-            btn_contar.Name = "btn_cont";
+            resources.ApplyResources(btn_contar, "btn_contar");
+            btn_contar.Name = "btn_contar";
             btn_contar.UseVisualStyleBackColor = true;
             btn_contar.Click += btnContar_Click;
             // 
@@ -210,8 +208,6 @@
             panel3.PerformLayout();
             ResumeLayout(false);
         }
-
-        #endregion
 
         private Label nome;
         private Label sexo;

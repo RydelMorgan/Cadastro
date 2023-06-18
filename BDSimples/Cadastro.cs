@@ -103,7 +103,6 @@ namespace BDSimples
             MySqlDataReader reader = cmd.ExecuteReader();
 
             List<string> citiesList = new List<string>();
-            int index = 0;
 
             while (reader.Read())
             {
