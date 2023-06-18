@@ -170,18 +170,14 @@
   <data name="btn_excluir.Text" xml:space="preserve">
     <value>Excluir</value>
   </data>
-  <data name="btn_contar.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Bottom, Left</value>
+  <data name="btn_contar.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
   </data>
   <data name="btn_contar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 357</value>
+    <value>10, 353</value>
   </data>
   <data name="btn_contar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>214, 23</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="btn_contar.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
+    <value>1043, 23</value>
   </data>
   <data name="btn_contar.Text" xml:space="preserve">
     <value>Contar nº de contatos por cidade</value>
@@ -193,6 +189,7 @@
   <data name="analiseText.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>10, 10, 10, 10</value>
   </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="analiseText.Multiline" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
