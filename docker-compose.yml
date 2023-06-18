@@ -1,0 +1,19 @@
+version: '2.4'
+x-database-variable: &database-variables
+  SPRING_DATASOURCE_URL: jdbc:mysql://AuE:3306/anime?createDatabaseIfNotExist=true
+  SPRING_DATASOURCE_USERNAME: root
+  SPRING_DATASOURCE_PASSWORD: root
+
+services:
+  db:
+    image: mysql
+    container_name: AuE
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - "3306:3306"
+    volumes:
+      - aue_data:/var/lib/AuE
+
+volumes:
+  aue_data:
