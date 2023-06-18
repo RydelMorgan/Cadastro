@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Supervisor\\Documents\\GitHub\\BDSimples\\BDSimples\\BDSimples.csproj": {}
+    "C:\\Users\\Supervisor\\Documents\\GitHub\\Cadastro\\BDSimples\\BDSimples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Supervisor\\Documents\\GitHub\\BDSimples\\BDSimples\\BDSimples.csproj": {
+    "C:\\Users\\Supervisor\\Documents\\GitHub\\Cadastro\\BDSimples\\BDSimples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Supervisor\\Documents\\GitHub\\BDSimples\\BDSimples\\BDSimples.csproj",
+        "projectUniqueName": "C:\\Users\\Supervisor\\Documents\\GitHub\\Cadastro\\BDSimples\\BDSimples.csproj",
         "projectName": "BDSimples",
-        "projectPath": "C:\\Users\\Supervisor\\Documents\\GitHub\\BDSimples\\BDSimples\\BDSimples.csproj",
+        "projectPath": "C:\\Users\\Supervisor\\Documents\\GitHub\\Cadastro\\BDSimples\\BDSimples.csproj",
         "packagesPath": "C:\\Users\\Supervisor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Supervisor\\Documents\\GitHub\\BDSimples\\BDSimples\\obj\\",
+        "outputPath": "C:\\Users\\Supervisor\\Documents\\GitHub\\Cadastro\\BDSimples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Supervisor\\AppData\\Roaming\\NuGet\\NuGet.Config",

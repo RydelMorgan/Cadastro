@@ -1,6 +1,6 @@
 version: '2.4'
 x-database-variable: &database-variables
-  SPRING_DATASOURCE_URL: jdbc:mysql://AuE:3306/anime?createDatabaseIfNotExist=true
+  SPRING_DATASOURCE_URL: jdbc:mysql://AuE:3306/
   SPRING_DATASOURCE_USERNAME: root
   SPRING_DATASOURCE_PASSWORD: root
 
