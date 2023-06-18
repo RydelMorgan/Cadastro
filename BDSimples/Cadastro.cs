@@ -236,6 +236,7 @@ namespace BDSimples
         {
             try
             {
+                if (dgvSearch.CurrentRow.Index == 0) throw new Exception("Nenhum cadastro selecionado");
                 MySqlConnection con = new MySqlConnection();
                 con.ConnectionString = connstring;
                 con.Open();
