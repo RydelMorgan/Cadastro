@@ -32,7 +32,7 @@ Após cadastrar alguns dados iremos apertar o botão “Contar No de contatos po
 + Eu também utilizei [Docker](https://www.docker.com) para implementação da imagem MySQL para o banco de dados.
 + Caso for utilizar do ```docker-compose up``` recomendo verificar o arquivo [docker-compose.yml](docker-compose.yml), para devidas configurações.
 + Caso utilizar de outra forma atualizar ```connstring``` no [Cadastro.cs](BDSImples/Cadastro.cs).
-+ Criei um arquivo ```DadosCadastro.sql``` com os comandos para criar o banco de dados com dados inseridos.
++ Criei um arquivo ```DadosCadastro.sql``` com os comandos para criar o banco de dados com dados inseridos na pasta ```assets```([ArquivoSQL](assets/DadosCadastro.sql)).
 
 ## Getting Started
 
