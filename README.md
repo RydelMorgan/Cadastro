@@ -7,7 +7,7 @@
   <a href="#features">Features</a> •
   <a href="#installation">Installation</a> •
   <a href="#getting-started">Getting Started</a> •
-  <a href="#more">More</a> •
+  <a href="#more">More</a>
 </p>
 
 
